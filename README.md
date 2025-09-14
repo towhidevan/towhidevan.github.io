@@ -2,7 +2,7 @@
 Welcome to my personal portfolio! I’m a graduate in CSE from North South University.
 
 ## About Me
-I,m passionate about DevOps.
+I'm passionate about DevOps.
 
 ## Skills
 - Git
